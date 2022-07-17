@@ -1,4 +1,4 @@
-### Olá eu sou o Vinícius França👋
+### Olá me chamo Vinícius França👋
 
 - 🖥️ Trabalho atualmente como Analista de Infraestrutura
 - 📚 Cursando Analise e Desenvolvimento de Sistemas
