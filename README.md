@@ -1,7 +1,7 @@
 ### Olá me chamo Vinícius França👋
 
 - 🖥️ Trabalho atualmente como Analista de Infraestrutura
-- 📚 Cursando Analise e Desenvolvimento de Sistemas
+- 📚 Tecnólogo em Analise e Desenvolvimento de Sistemas
 - 💡  Sou entusiasta da tecnologia 
 - ❤️ Apaixonado por Front-End
 - 😄 Apelidado de "Francinha"
